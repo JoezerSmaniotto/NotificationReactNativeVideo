@@ -24,6 +24,7 @@ export default function App() {
 
 
   useEffect(() => {
+    
     handleTokenPush()
     
     // Essa parte do effect minuto 31...
